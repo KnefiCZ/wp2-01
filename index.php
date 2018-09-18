@@ -13,14 +13,13 @@
           <input id="spz" type="text" name="spz" placeholder="AAA AAAA">
          <label for="auta">Auto</label>
             <select id="auta"  name="auta" >
-                  <option value="ford">Ford</option>
-                  <option value="skoda">Škoda</option>
-                  <option value="jeep">Jeep</option>
-                  <option value="gaz">Gaz</option>
-                  <option value="uaz">Uaz</option>
-                  <option value="fiat">Fiat</option>
+                  <option value="Ford">Ford</option>
+                  <option value="Škoda">Škoda</option>
+                  <option value="Jeep">Jeep</option>
+                  <option value="Gaz">Gaz</option>
+                  <option value="Uaz">Uaz</option>
+                  <option value="Fiat">Fiat</option>
                 </select>
-
             <input type="submit" name="submit" value="Odeslat">
       </form>
     </body>
