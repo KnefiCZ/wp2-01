@@ -11,6 +11,7 @@
       <form action="submit.php" method="post">
         <label for="spz">SPZ</label>
           <input id="spz" type="text" name="spz" placeholder="AAA AAAA">
+    <br />
          <label for="auta">Auto</label>
             <select id="auta"  name="auta" >
                   <option value="Ford">Ford</option>
@@ -20,6 +21,7 @@
                   <option value="Uaz">Uaz</option>
                   <option value="Fiat">Fiat</option>
                 </select>
+      <br />
             <input type="submit" name="submit" value="Odeslat">
       </form>
     </body>
